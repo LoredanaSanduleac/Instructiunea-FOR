@@ -1,3 +1,4 @@
+#Utilizînd ciclul FOR elaboraţi un program care să calculeze suma numerelor de la 1 la n, care se împart la 3 şi 5 pentru oricare n întrodus de la tastatură.
 n=eval(input("Introduceti un numar: "))
 s=0
 for i in range(1,n):
